@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Michelle Kanuri, Data Engineering" width="100%">
+  <img src="assets/banner-light.svg" alt="Michelle Kanuri, Dats Science, Analytics and Engineering" width="100%">
 </picture>
 
 Data professional moving into data engineering, with a focus on reliable pipelines and trustworthy data.
