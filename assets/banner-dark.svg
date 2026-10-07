@@ -23,5 +23,5 @@
     <circle cx="940" cy="200" r="5"/>
   </g>
   <text x="60" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#F6E7EC">Michelle Kanuri</text>
-  <text x="62" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic" fill="#CDB8E3">data, pipelines, and the quiet work of making numbers trustworthy</text>
+  <text x="62" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="3" fill="#CDB8E3">DATA ENGINEERING</text>
 </svg>
