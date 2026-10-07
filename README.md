@@ -1,25 +1,26 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Michelle Kanuri, Data Engineering" width="100%">
-</picture>
+<img src="assets/banner.svg" alt="Michelle Kanuri, Data Science and Data Engineering" width="100%">
 
-Data professional moving into data engineering, with a focus on reliable pipelines and trustworthy data.
+Data scientist building toward data engineering. I care about reliable pipelines, data quality and clear reporting.
 
 ## Focus
 
-- Streaming and batch data pipelines
-- Data validation and quality
-- Time-series storage and dashboards
+| Pipelines | Data quality | Analytics |
+|:--|:--|:--|
+| Streaming and batch ingestion | Validation, testing, idempotent loads | Time-series storage, dashboards, analysis |
 
-## Tools
+## Skills
 
-![Python](https://img.shields.io/badge/Python-4A2C4A?style=flat-square&logo=python&logoColor=F6DDE2)
-![Kafka](https://img.shields.io/badge/Kafka-8E6C8A?style=flat-square&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-C98A9C?style=flat-square&logo=apachespark&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-8E6FB3?style=flat-square&logo=timescale&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4A2C4A?style=flat-square&logo=postgresql&logoColor=F6DDE2)
-![Grafana](https://img.shields.io/badge/Grafana-D8A7B1?style=flat-square&logo=grafana&logoColor=4A2C4A)
-![Docker](https://img.shields.io/badge/Docker-8E6C8A?style=flat-square&logo=docker&logoColor=white)
-![Great Expectations](https://img.shields.io/badge/Great_Expectations-B79AD3?style=flat-square&logoColor=white)
+| Area | Tools |
+|:--|:--|
+| Languages | ![Python](https://img.shields.io/badge/Python-FF5FA2?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-2EC4B6?style=flat-square&logo=postgresql&logoColor=white) |
+| Streaming | ![Kafka](https://img.shields.io/badge/Kafka-FF5FA2?style=flat-square&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-2EC4B6?style=flat-square&logo=apachespark&logoColor=white) |
+| Storage | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF5FA2?style=flat-square&logo=postgresql&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-2EC4B6?style=flat-square&logo=timescale&logoColor=white) |
+| Data quality | ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF5FA2?style=flat-square&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-2EC4B6?style=flat-square&logo=pytest&logoColor=white) |
+| Visualisation | ![Grafana](https://img.shields.io/badge/Grafana-FF5FA2?style=flat-square&logo=grafana&logoColor=white) |
+| DevOps | ![Docker](https://img.shields.io/badge/Docker-2EC4B6?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF5FA2?style=flat-square&logo=githubactions&logoColor=white) |
 
-<!-- Add contact line here when ready, for example: [LinkedIn](https://www.linkedin.com/in/your-handle) -->
+## Education
+
+Data Science and Analytics, USIU-Africa
+
+<!-- Contact line, add when ready: [LinkedIn](https://www.linkedin.com/in/your-handle) -->
